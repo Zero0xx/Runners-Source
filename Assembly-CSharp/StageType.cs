@@ -1,0 +1,70 @@
+﻿using System;
+
+// Token: 0x02000323 RID: 803
+public enum StageType
+{
+	// Token: 0x04001546 RID: 5446
+	W01,
+	// Token: 0x04001547 RID: 5447
+	W02,
+	// Token: 0x04001548 RID: 5448
+	W03,
+	// Token: 0x04001549 RID: 5449
+	W04,
+	// Token: 0x0400154A RID: 5450
+	W05,
+	// Token: 0x0400154B RID: 5451
+	W06,
+	// Token: 0x0400154C RID: 5452
+	W07,
+	// Token: 0x0400154D RID: 5453
+	W08,
+	// Token: 0x0400154E RID: 5454
+	W09,
+	// Token: 0x0400154F RID: 5455
+	W10,
+	// Token: 0x04001550 RID: 5456
+	W11,
+	// Token: 0x04001551 RID: 5457
+	W12,
+	// Token: 0x04001552 RID: 5458
+	W13,
+	// Token: 0x04001553 RID: 5459
+	W14,
+	// Token: 0x04001554 RID: 5460
+	W15,
+	// Token: 0x04001555 RID: 5461
+	W16,
+	// Token: 0x04001556 RID: 5462
+	W17,
+	// Token: 0x04001557 RID: 5463
+	W18,
+	// Token: 0x04001558 RID: 5464
+	W19,
+	// Token: 0x04001559 RID: 5465
+	W20,
+	// Token: 0x0400155A RID: 5466
+	W21,
+	// Token: 0x0400155B RID: 5467
+	W22,
+	// Token: 0x0400155C RID: 5468
+	W23,
+	// Token: 0x0400155D RID: 5469
+	W24,
+	// Token: 0x0400155E RID: 5470
+	W25,
+	// Token: 0x0400155F RID: 5471
+	W26,
+	// Token: 0x04001560 RID: 5472
+	W27,
+	// Token: 0x04001561 RID: 5473
+	W28,
+	// Token: 0x04001562 RID: 5474
+	W29,
+	// Token: 0x04001563 RID: 5475
+	W30,
+	// Token: 0x04001564 RID: 5476
+	NUM,
+	// Token: 0x04001565 RID: 5477
+	NONE = -1
+}

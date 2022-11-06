@@ -1,0 +1,30 @@
+﻿using System;
+
+// Token: 0x0200078B RID: 1931
+public enum ApolloType
+{
+	// Token: 0x04002BB3 RID: 11187
+	TYPE1 = 1,
+	// Token: 0x04002BB4 RID: 11188
+	TYPE2,
+	// Token: 0x04002BB5 RID: 11189
+	TYPE3,
+	// Token: 0x04002BB6 RID: 11190
+	TYPE4,
+	// Token: 0x04002BB7 RID: 11191
+	TYPE5,
+	// Token: 0x04002BB8 RID: 11192
+	TYPE6,
+	// Token: 0x04002BB9 RID: 11193
+	TYPE7,
+	// Token: 0x04002BBA RID: 11194
+	TUTORIAL_START,
+	// Token: 0x04002BBB RID: 11195
+	TUTORIAL_END,
+	// Token: 0x04002BBC RID: 11196
+	TYPE10,
+	// Token: 0x04002BBD RID: 11197
+	TYPE11,
+	// Token: 0x04002BBE RID: 11198
+	NONE = -1
+}

@@ -1,0 +1,24 @@
+﻿using System;
+
+// Token: 0x02000662 RID: 1634
+public enum MileageBonus
+{
+	// Token: 0x040028CD RID: 10445
+	NULL_EFFECT,
+	// Token: 0x040028CE RID: 10446
+	SCORE,
+	// Token: 0x040028CF RID: 10447
+	ANIMAL,
+	// Token: 0x040028D0 RID: 10448
+	RING,
+	// Token: 0x040028D1 RID: 10449
+	RED_RING,
+	// Token: 0x040028D2 RID: 10450
+	DISTANCE,
+	// Token: 0x040028D3 RID: 10451
+	FINAL_SCORE,
+	// Token: 0x040028D4 RID: 10452
+	NUM,
+	// Token: 0x040028D5 RID: 10453
+	UNKNOWN = -1
+}

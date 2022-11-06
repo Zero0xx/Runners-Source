@@ -1,0 +1,30 @@
+﻿using System;
+
+// Token: 0x0200086E RID: 2158
+public enum BossMotion : uint
+{
+	// Token: 0x04003253 RID: 12883
+	APPEAR,
+	// Token: 0x04003254 RID: 12884
+	BOM_START,
+	// Token: 0x04003255 RID: 12885
+	MISSILE_START,
+	// Token: 0x04003256 RID: 12886
+	MOVE_R,
+	// Token: 0x04003257 RID: 12887
+	NOTICE,
+	// Token: 0x04003258 RID: 12888
+	PASS,
+	// Token: 0x04003259 RID: 12889
+	ESCAPE,
+	// Token: 0x0400325A RID: 12890
+	ESCAPE_HO_START,
+	// Token: 0x0400325B RID: 12891
+	DAMAGE_R_HC,
+	// Token: 0x0400325C RID: 12892
+	ATTACK,
+	// Token: 0x0400325D RID: 12893
+	NUM,
+	// Token: 0x0400325E RID: 12894
+	NONE
+}

@@ -1,0 +1,41 @@
+﻿using System;
+
+namespace Message
+{
+	// Token: 0x02000576 RID: 1398
+	public enum ID
+	{
+		// Token: 0x0400265A RID: 9818
+		SYSTEM = 4096,
+		// Token: 0x0400265B RID: 9819
+		GAME = 12288,
+		// Token: 0x0400265C RID: 9820
+		COMMON = 16384,
+		// Token: 0x0400265D RID: 9821
+		PLAYER = 20480,
+		// Token: 0x0400265E RID: 9822
+		CHAO = 21760,
+		// Token: 0x0400265F RID: 9823
+		OBJECT = 24576,
+		// Token: 0x04002660 RID: 9824
+		ENEMY = 28672,
+		// Token: 0x04002661 RID: 9825
+		CAMERA = 32768,
+		// Token: 0x04002662 RID: 9826
+		COLLISION = 36864,
+		// Token: 0x04002663 RID: 9827
+		PATH = 40960,
+		// Token: 0x04002664 RID: 9828
+		TERRAIN = 45056,
+		// Token: 0x04002665 RID: 9829
+		HUD = 49152,
+		// Token: 0x04002666 RID: 9830
+		SOUND = 53248,
+		// Token: 0x04002667 RID: 9831
+		MENU = 57344,
+		// Token: 0x04002668 RID: 9832
+		NET = 61440,
+		// Token: 0x04002669 RID: 9833
+		SOCIAL = 63488
+	}
+}

@@ -1,0 +1,20 @@
+﻿using System;
+
+// Token: 0x0200011D RID: 285
+public enum CameraType
+{
+	// Token: 0x04000673 RID: 1651
+	DEFAULT,
+	// Token: 0x04000674 RID: 1652
+	LASER,
+	// Token: 0x04000675 RID: 1653
+	JUMPBOARD,
+	// Token: 0x04000676 RID: 1654
+	CANNON,
+	// Token: 0x04000677 RID: 1655
+	LOOP_TERRAIN,
+	// Token: 0x04000678 RID: 1656
+	START_ACT,
+	// Token: 0x04000679 RID: 1657
+	NUM
+}

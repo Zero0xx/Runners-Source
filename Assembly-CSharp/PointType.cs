@@ -1,0 +1,20 @@
+﻿using System;
+
+// Token: 0x02000664 RID: 1636
+public enum PointType
+{
+	// Token: 0x040028DE RID: 10462
+	POINT_00,
+	// Token: 0x040028DF RID: 10463
+	POINT_01,
+	// Token: 0x040028E0 RID: 10464
+	POINT_02,
+	// Token: 0x040028E1 RID: 10465
+	POINT_03,
+	// Token: 0x040028E2 RID: 10466
+	POINT_04,
+	// Token: 0x040028E3 RID: 10467
+	POINT_05,
+	// Token: 0x040028E4 RID: 10468
+	NUM
+}

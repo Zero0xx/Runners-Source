@@ -1,0 +1,21 @@
+﻿using System;
+
+namespace Message
+{
+	// Token: 0x0200057E RID: 1406
+	internal enum HudID
+	{
+		// Token: 0x0400272D RID: 10029
+		BOSS_HP_GAUGE_OPEN = 49152,
+		// Token: 0x0400272E RID: 10030
+		BOSS_HP_GAUGE_SET,
+		// Token: 0x0400272F RID: 10031
+		ADD_STOCK_RING,
+		// Token: 0x04002730 RID: 10032
+		SETUP_COCKPIT,
+		// Token: 0x04002731 RID: 10033
+		BOSS_GAUGE_START,
+		// Token: 0x04002732 RID: 10034
+		STOCKRING_EFFECT
+	}
+}

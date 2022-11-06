@@ -1,0 +1,26 @@
+﻿using System;
+
+// Token: 0x02000859 RID: 2137
+public enum BossType
+{
+	// Token: 0x04003164 RID: 12644
+	FEVER,
+	// Token: 0x04003165 RID: 12645
+	MAP1,
+	// Token: 0x04003166 RID: 12646
+	MAP2,
+	// Token: 0x04003167 RID: 12647
+	MAP3,
+	// Token: 0x04003168 RID: 12648
+	EVENT1,
+	// Token: 0x04003169 RID: 12649
+	EVENT2,
+	// Token: 0x0400316A RID: 12650
+	EVENT3,
+	// Token: 0x0400316B RID: 12651
+	NUM,
+	// Token: 0x0400316C RID: 12652
+	BEGIN = 0,
+	// Token: 0x0400316D RID: 12653
+	NONE = -1
+}

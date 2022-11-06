@@ -1,0 +1,28 @@
+﻿using System;
+
+// Token: 0x02000A4F RID: 2639
+public enum RouletteCategory
+{
+	// Token: 0x04003B1D RID: 15133
+	NONE,
+	// Token: 0x04003B1E RID: 15134
+	PREMIUM,
+	// Token: 0x04003B1F RID: 15135
+	ITEM,
+	// Token: 0x04003B20 RID: 15136
+	RAID,
+	// Token: 0x04003B21 RID: 15137
+	EVENT,
+	// Token: 0x04003B22 RID: 15138
+	UNDEFINED_0,
+	// Token: 0x04003B23 RID: 15139
+	UNDEFINED_1,
+	// Token: 0x04003B24 RID: 15140
+	UNDEFINED_2,
+	// Token: 0x04003B25 RID: 15141
+	SPECIAL,
+	// Token: 0x04003B26 RID: 15142
+	GENERAL,
+	// Token: 0x04003B27 RID: 15143
+	ALL
+}

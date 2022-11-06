@@ -1,0 +1,22 @@
+﻿using System;
+
+// Token: 0x0200024B RID: 587
+public enum ChaoAttributeAbility
+{
+	// Token: 0x04000DED RID: 3565
+	MAX_SPEED_INVINCIBLE,
+	// Token: 0x04000DEE RID: 3566
+	TRIPLE_JUMP,
+	// Token: 0x04000DEF RID: 3567
+	DOUBLE_JUMP,
+	// Token: 0x04000DF0 RID: 3568
+	FLYING_TIME,
+	// Token: 0x04000DF1 RID: 3569
+	FLYING_INVINCIBLE,
+	// Token: 0x04000DF2 RID: 3570
+	RARE_ENEMY_UP,
+	// Token: 0x04000DF3 RID: 3571
+	NUM,
+	// Token: 0x04000DF4 RID: 3572
+	UNKNOWN = -1
+}

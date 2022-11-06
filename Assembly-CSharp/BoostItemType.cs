@@ -1,0 +1,16 @@
+﻿using System;
+
+// Token: 0x0200025A RID: 602
+public enum BoostItemType
+{
+	// Token: 0x04000ECF RID: 3791
+	UNKNOWN = -1,
+	// Token: 0x04000ED0 RID: 3792
+	SCORE_BONUS,
+	// Token: 0x04000ED1 RID: 3793
+	ASSIST_TRAMPOLINE,
+	// Token: 0x04000ED2 RID: 3794
+	SUB_CHARACTER,
+	// Token: 0x04000ED3 RID: 3795
+	NUM
+}

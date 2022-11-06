@@ -1,0 +1,30 @@
+﻿using System;
+
+// Token: 0x02000253 RID: 595
+public enum AbilityType
+{
+	// Token: 0x04000EA2 RID: 3746
+	LASER,
+	// Token: 0x04000EA3 RID: 3747
+	DRILL,
+	// Token: 0x04000EA4 RID: 3748
+	ASTEROID,
+	// Token: 0x04000EA5 RID: 3749
+	RING_BONUS,
+	// Token: 0x04000EA6 RID: 3750
+	DISTANCE_BONUS,
+	// Token: 0x04000EA7 RID: 3751
+	TRAMPOLINE,
+	// Token: 0x04000EA8 RID: 3752
+	ANIMAL,
+	// Token: 0x04000EA9 RID: 3753
+	COMBO,
+	// Token: 0x04000EAA RID: 3754
+	MAGNET,
+	// Token: 0x04000EAB RID: 3755
+	INVINCIBLE,
+	// Token: 0x04000EAC RID: 3756
+	NUM,
+	// Token: 0x04000EAD RID: 3757
+	NONE = -1
+}

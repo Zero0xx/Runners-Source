@@ -1,0 +1,24 @@
+﻿using System;
+
+// Token: 0x020000EE RID: 238
+public enum ApolloTutorialIndex
+{
+	// Token: 0x04000571 RID: 1393
+	START_STEP1 = 1,
+	// Token: 0x04000572 RID: 1394
+	START_STEP2,
+	// Token: 0x04000573 RID: 1395
+	START_STEP3,
+	// Token: 0x04000574 RID: 1396
+	START_STEP4,
+	// Token: 0x04000575 RID: 1397
+	START_STEP5,
+	// Token: 0x04000576 RID: 1398
+	START_STEP6,
+	// Token: 0x04000577 RID: 1399
+	START_STEP7,
+	// Token: 0x04000578 RID: 1400
+	START_STEP8,
+	// Token: 0x04000579 RID: 1401
+	NONE = -1
+}

@@ -1,0 +1,26 @@
+﻿using System;
+
+// Token: 0x02000250 RID: 592
+public enum TeamAttributeCategory
+{
+	// Token: 0x04000E88 RID: 3720
+	DISTANCE,
+	// Token: 0x04000E89 RID: 3721
+	SCORE,
+	// Token: 0x04000E8A RID: 3722
+	RING,
+	// Token: 0x04000E8B RID: 3723
+	ANIMAL,
+	// Token: 0x04000E8C RID: 3724
+	ENEMY_OBJBREAK,
+	// Token: 0x04000E8D RID: 3725
+	EASY_SPEED,
+	// Token: 0x04000E8E RID: 3726
+	DISTANCE_ANIMAL,
+	// Token: 0x04000E8F RID: 3727
+	LOW_SPEED_SCORE,
+	// Token: 0x04000E90 RID: 3728
+	NUM,
+	// Token: 0x04000E91 RID: 3729
+	NONE = -1
+}

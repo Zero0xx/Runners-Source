@@ -1,0 +1,28 @@
+﻿using System;
+
+// Token: 0x02000835 RID: 2101
+public enum AnimalType
+{
+	// Token: 0x04002FAF RID: 12207
+	FLICKY,
+	// Token: 0x04002FB0 RID: 12208
+	PICKY,
+	// Token: 0x04002FB1 RID: 12209
+	PECKY,
+	// Token: 0x04002FB2 RID: 12210
+	ROCKY,
+	// Token: 0x04002FB3 RID: 12211
+	RICKY,
+	// Token: 0x04002FB4 RID: 12212
+	COOKIE,
+	// Token: 0x04002FB5 RID: 12213
+	POCKY,
+	// Token: 0x04002FB6 RID: 12214
+	PSO2_1,
+	// Token: 0x04002FB7 RID: 12215
+	NUM,
+	// Token: 0x04002FB8 RID: 12216
+	ERROR,
+	// Token: 0x04002FB9 RID: 12217
+	BEGIN = 0
+}

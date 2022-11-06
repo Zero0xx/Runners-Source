@@ -1,0 +1,16 @@
+﻿using System;
+
+// Token: 0x02000259 RID: 601
+public enum OtherItemType
+{
+	// Token: 0x04000EC9 RID: 3785
+	REDSTAR_RING,
+	// Token: 0x04000ECA RID: 3786
+	TIMER_BRONZE,
+	// Token: 0x04000ECB RID: 3787
+	TIMER_SILVER,
+	// Token: 0x04000ECC RID: 3788
+	TIMER_GOLD,
+	// Token: 0x04000ECD RID: 3789
+	NUM
+}

@@ -1,0 +1,18 @@
+﻿using System;
+
+// Token: 0x02000663 RID: 1635
+public enum RouteType
+{
+	// Token: 0x040028D7 RID: 10455
+	ROUTE_00_TO_01,
+	// Token: 0x040028D8 RID: 10456
+	ROUTE_01_TO_02,
+	// Token: 0x040028D9 RID: 10457
+	ROUTE_02_TO_03,
+	// Token: 0x040028DA RID: 10458
+	ROUTE_03_TO_04,
+	// Token: 0x040028DB RID: 10459
+	ROUTE_04_TO_05,
+	// Token: 0x040028DC RID: 10460
+	NUM
+}

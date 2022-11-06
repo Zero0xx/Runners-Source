@@ -1,0 +1,24 @@
+﻿using System;
+
+// Token: 0x02000A50 RID: 2640
+public enum RouletteTicketCategory
+{
+	// Token: 0x04003B29 RID: 15145
+	NONE,
+	// Token: 0x04003B2A RID: 15146
+	PREMIUM,
+	// Token: 0x04003B2B RID: 15147
+	ITEM,
+	// Token: 0x04003B2C RID: 15148
+	RAID,
+	// Token: 0x04003B2D RID: 15149
+	EVENT,
+	// Token: 0x04003B2E RID: 15150
+	UNDEFINED_0,
+	// Token: 0x04003B2F RID: 15151
+	UNDEFINED_1,
+	// Token: 0x04003B30 RID: 15152
+	UNDEFINED_2,
+	// Token: 0x04003B31 RID: 15153
+	SPECIAL
+}
